@@ -1,6 +1,6 @@
 # Awesome-Online-Graphic-Design-Software
 
-# Top Online Graphic Design Software Ecosystem
+## Top Online Graphic Design Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Browser-Native Design, SVG-Standard Interoperability & Self-Hosted Template Builders*  
