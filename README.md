@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Graphic-Design-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Graphic-Design-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Graphic-Design-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Graphic-Design-Software?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Graphic-Design-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Graphic-Design-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Graphic-Design-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Online-Graphic-Design-Software?style=flat-square&color=brightgreen" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Graphic-Design-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License"/></a>
@@ -64,7 +64,7 @@ The following commercial SaaS solutions operate directly in modern web browsers.
 
 ## 🐙 Open-Source GitHub Projects (Ranked by Stars)
 
-The open-source design ecosystem provides data sovereignty, zero subscription fees, self-hosting flexibility, and open web standards. Entries below are **sorted strictly descending by GitHub Star Count**.
+The open-source design ecosystem provides data sovereignty, zero subscription fees, self-hosting flexibility, and open web standards. Entries below are **sorted strictly descending by GitHub Stars_Count**.
 
 ---
 
@@ -187,7 +187,7 @@ Contributions to expand and update this ecosystem guide are warmly welcomed!
 2. 🌿 **Create a feature branch:** `git checkout -b add-design-tool-name`.
 3. 📝 **Add or update entries in `README.md`:**
    - Maintain table formatting for SaaS platforms (accurate pricing, explicit free-tier limits, and verifiable company revenue/valuation).
-   - For Open-Source projects, insert the standard social star badge and place the entry according to star count ranking.
+   - For Open-Source projects, insert the standard social Stars_Badge and place the entry according to Stars_Count ranking.
 4. 🚀 **Submit a Pull Request** with a succinct description of the additions.
 
 ---
@@ -212,4 +212,4 @@ If this project has saved you time or aided your creative workflow:
 
 ## ⚖️ Disclaimer
 
-*This curated directory is independently compiled for educational, research, and technical evaluation purposes. All product names, trademarks, and logos are property of their respective owners. Pricing tiers, free forever limits, valuations, and star counts are current as of March 2026 and subject to change by their respective publishers.*
+*This curated directory is independently compiled for educational, research, and technical evaluation purposes. All product names, trademarks, and logos are property of their respective owners. Pricing tiers, free forever limits, valuations, and Stars_Counts are current as of March 2026 and subject to change by their respective publishers.*
